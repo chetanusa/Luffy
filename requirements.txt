@@ -1,0 +1,35 @@
+# Core
+python-dotenv
+pydantic
+pydantic-settings
+# OpenAI
+openai
+# Document Processing
+PyPDF2
+python-docx
+markdown
+# Graph Database
+neo4j
+py2neo
+# Vector Store
+chromadb
+# Database
+psycopg2-binary
+sqlalchemy
+# Data Processing
+pandas
+numpy
+# Visualization
+plotly
+pyvis
+networkx
+# UI
+streamlit
+streamlit-agraph
+# NLP (optional pre-filtering)
+spacy
+# Testing
+pytest
+# Utilities
+tqdm
+loguru
